@@ -1,2 +1,3 @@
 # C++课设
-there are my notes about learning coding languages(C,C++&amp;python,etc)and some codes.
+C++ course assignment
+student registration information management system
